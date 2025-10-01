@@ -1,3 +1,3 @@
 # Git Practice
 
-Practicing Git
+Practicing Git and such.
